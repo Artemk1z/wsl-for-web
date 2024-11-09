@@ -1,4 +1,4 @@
-# WSL For Web-server
+# WSL for Web-server
 Stack:
 <p>
   <img src="https://img.shields.io/badge/Nginx-blue" alt="Nginx">
